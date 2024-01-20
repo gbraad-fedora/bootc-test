@@ -1,2 +1,6 @@
-# bootc-test
-bootc-test
+bootc test
+==========
+
+```
+$ ./make.sh
+```
